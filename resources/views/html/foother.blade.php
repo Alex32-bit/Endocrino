@@ -3,7 +3,7 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
-                    <h5 class="text-white mb-4">Nuestro Consultorio</h5>
+                    <h5 class="text-white mb-4">Dirección</h5>
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Av Rosa del Pte 9, Grijalva INFONAVIT, 29049 Tuxtla Gutiérrez, Chis.</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>961 572 1565</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>citasdraendo@gmail.com</p>
@@ -22,14 +22,14 @@
                     <a class="btn btn-link" href="https://goo.gl/maps/gVXCpFLgW469gigPA" target="_blank">Ubicación</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <h5 class="text-white mb-4">Horario</h5>
+                    <!--h5 class="text-white mb-4">Horario</h5>
                     <p class="mb-1">Lunes a Viernes</p>
                     <h6 class="text-light">08:00 am - 01:00 pm</h6>
                     <p class="mb-1">Martes</p>
                     <h6 class="text-light">08:00 am - 01:00 pm</h6>
                     <h6 class="text-light">03:00 pm - 06:00 pm</h6>
                     <p class="mb-1">Domingo</p>
-                    <h6 class="text-light">Cerrado</h6>
+                    <h6 class="text-light">Cerrado</h6-->
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white mb-4">Ubicación</h5>
