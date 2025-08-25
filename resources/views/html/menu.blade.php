@@ -10,9 +10,9 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="/" class="nav-item nav-link active">Home</a>
-                <a href="tel:/+529616904244" class="nav-item nav-link">Cita Previa</a>
-                <a href="https://wa.me/+529615721565" class="nav-item nav-link">WhastApp</a>
-                <a href="https://goo.gl/maps/gVXCpFLgW469gigPA" class="nav-item nav-link">Ubicación</a>
+                <a href="tel:/+529616904244" class="nav-item nav-link" target="_blank">Cita Previa</a>
+                <a href="https://wa.me/+529615721565" class="nav-item nav-link" target="_blank">WhastApp</a>
+                <a href="https://goo.gl/maps/gVXCpFLgW469gigPA" class="nav-item nav-link" target="_blank">Ubicación</a>
             </div>
             
         </div>
